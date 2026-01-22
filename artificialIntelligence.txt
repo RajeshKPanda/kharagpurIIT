@@ -1,2 +1,1 @@
-I am local  again
-remote commit third
+this is a NOC12 branch created in remote repository
