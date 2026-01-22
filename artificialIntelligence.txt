@@ -1,2 +1,1 @@
-I am local 
-Hi I am remote change
+I am local
