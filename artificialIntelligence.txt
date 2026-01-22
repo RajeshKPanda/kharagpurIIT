@@ -6,3 +6,4 @@ this is local main branch - version 1
 this is local main branch - version 2
 
 added this line for local branch merge (version one)
+this is remote added line to check merge conflict
