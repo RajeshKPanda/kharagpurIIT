@@ -3,3 +3,7 @@ main branch
 this is remote called origin
 
 b
+
+created remote branch noctest02
+
+c
