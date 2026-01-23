@@ -1,9 +1,5 @@
-this is remote main branch - version 1
-this is remote main branch - version 2
-this is remote main branch - version 3
+noctest-01 branch
 
-this is local main branch - version 1
-this is local main branch - version 2
+remote branch created from main
 
-added this line for local branch merge (version one)
-this is remote added line to check merge conflict
+a
