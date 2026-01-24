@@ -1,6 +1,1 @@
-noc 03
-first
-second
-noc04
-changed one
-maini
+main one
