@@ -1,14 +1,2 @@
-noctest-01 branch
-
-remote branch created from main
-
+main
 a
-main branch
-
-this is remote called origin
-
-b
-
-created remote branch noctest02
-
-c
