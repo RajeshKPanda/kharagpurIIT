@@ -3,3 +3,8 @@ noctest-01 branch
 remote branch created from main
 
 a
+main branch
+
+this is remote called origin
+
+b
